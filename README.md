@@ -26,7 +26,7 @@ Just check out the project and build via Visual Studio. NUnit tests are provided
 
 ## Usage ##
 
-For information on how to use CommandLine, see the [CommandLine User's Guide](https://github.com) Wiki page.
+For information on how to use CommandLine, see the [CommandLine User's Guide](https://github.com/toddogrin/CommandLine/wiki/CommandLine-User's-Guide) Wiki page.
 
 ## Contributions ##
 
